@@ -34,8 +34,8 @@ To ensure the controller's responsiveness to changing network conditions, we imp
 
 ## Phase 6: Testing and Validation
 
-Extensive testing was conducted in simulated network environments to validate the controller's functionality. We monitored its performance, accuracy of the machine learning predictions, and its ability to handle various traffic scenarios. The controller successfully demonstrated its ability to manage traffic intelligently, detect anomalies, and take appropriate actions.
+Extensive testing was conducted in simulated network environments on Mininet to validate the controller's functionality. We monitored its performance, accuracy of the machine learning predictions, and its ability to handle various traffic scenarios. The controller successfully demonstrated its ability to manage traffic intelligently, detect anomalies, and take appropriate actions.
 
 ## Conclusion
 
-The project culminated in a sophisticated Intelligent Network Traffic Controller capable of real-time traffic management and anomaly detection. By combining the power of SDN with machine learning, we created a system that not only optimizes network performance but also enhances security. This journey was a testament to the potential of interdisciplinary approaches in solving complex network challenges.
+The project culminated in a sophisticated Intelligent Network Traffic Controller capable of real-time traffic management and anomaly detection. By combining the power of SDN with machine learning, we created a system that not only optimizes network performance but also enhances security. This journey was a testament to the potential of interdisciplinary approaches in solving complex network challenges. the naration video will soon be uploaded on my youtube channel . feel free to contact me and ask questions . 
