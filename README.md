@@ -39,3 +39,8 @@ Extensive testing was conducted in simulated network environments on Mininet to 
 ## Conclusion
 
 The project culminated in a sophisticated Intelligent Network Traffic Controller capable of real-time traffic management and anomaly detection. By combining the power of SDN with machine learning, we created a system that not only optimizes network performance but also enhances security. This journey was a testament to the potential of interdisciplinary approaches in solving complex network challenges. the naration video will soon be uploaded on my youtube channel . feel free to contact me and ask questions . 
+
+
+## how to test ?:
+
+by running the aycmp.py file using ryu manager and mininet to start a topology the two scenarios will be connected to each other and each packet will be sent into the controller for analysis and policy making . you can test on normal data by iperf or http requests like curl or wget and attack traffic with hping3 . 
